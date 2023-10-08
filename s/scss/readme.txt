@@ -1,0 +1,1 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/69f1912c-d337-4340-8743-15d23ca038a0/deploy-status)](https://app.netlify.com/sites/amazing-sable-fe2891/deploys)
